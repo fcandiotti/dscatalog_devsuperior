@@ -27,3 +27,6 @@
 * Dados de auditoria
 * Paginação de dados
 * Associações entre entidades (N-N)
+
+## 2. Testes Automatizados 📃
+
